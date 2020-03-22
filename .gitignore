@@ -1,0 +1,13 @@
+# NPM & NODE
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+
+# Generated
+dist/
+
+# Private
+.env
